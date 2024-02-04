@@ -32,17 +32,17 @@ namespace WpfApp3_krestiki
             isPlayerXTurn = true;
             Game = true;
 
-            // Очищаем TextBlock
+            
             InfoTextBlock.Text = "";
 
-            // Делаем все кнопки доступными и очищаем их содержимое
+            
             foreach (var button in mainGrid.Children.OfType<Button>())
             {
                 button.IsEnabled = false;
                 button.Content = "";
             }
 
-            // Меняем текст кнопки
+            
             Begin_restart.Content = "Начать заново";
             Begin_restart.IsEnabled = true;
         }
@@ -79,7 +79,7 @@ namespace WpfApp3_krestiki
         private void Begin_restart_Click(object sender, RoutedEventArgs e)
         {
             BeginRestart();
-            // Теперь делаем кнопки доступными для первого хода
+           
             foreach (var button in mainGrid.Children.OfType<Button>())
             {
                 button.IsEnabled = true;
@@ -88,7 +88,7 @@ namespace WpfApp3_krestiki
 
         private bool CheckForWinner()
         {
-            // Check for a winner in rows, columns, and diagonals
+           
             if (CheckLine(0, 1, 2) || CheckLine(3, 4, 5) || CheckLine(6, 7, 8) ||
                 CheckLine(0, 3, 6) || CheckLine(1, 4, 7) || CheckLine(2, 5, 8) ||
                 CheckLine(0, 4, 8) || CheckLine(2, 4, 6))
@@ -157,11 +157,11 @@ namespace WpfApp3_krestiki
             {
                 if (child is Button button && string.IsNullOrEmpty(button.Content.ToString()))
                 {
-                    return false; // Если нашли пустую кнопку, доска не полная
+                    return false; 
                 }
             }
 
-            return true; // Если не нашли пустых кнопок, доска полная
+            return true; 
         }
     }
 }

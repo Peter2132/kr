@@ -10,31 +10,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="дестройдер.png" />
-    <None Remove="картонная коробка.png" />
-    <None Remove="конвеер.jpg" />
     <None Remove="опилочная стена.jpg" />
-    <None Remove="пол.jpg" />
-    <None Remove="с1.png" />
-    <None Remove="Снимок экрана 2024-01-31 142324.png" />
-    <None Remove="Снимок экрана 2024-01-31 142338.png" />
-    <None Remove="стул.png" />
-    <None Remove="фдеш пам.png" />
-    <None Remove="черная с белыми точками.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="дестройдер.png" />
-    <Resource Include="картонная коробка.png" />
-    <Resource Include="конвеер.jpg" />
     <Resource Include="опилочная стена.jpg" />
-    <Resource Include="пол.jpg" />
-    <Resource Include="с1.png" />
-    <Resource Include="Снимок экрана 2024-01-31 142324.png" />
-    <Resource Include="Снимок экрана 2024-01-31 142338.png" />
-    <Resource Include="стул.png" />
-    <Resource Include="фдеш пам.png" />
-    <Resource Include="черная с белыми точками.png" />
   </ItemGroup>
 
 </Project>
