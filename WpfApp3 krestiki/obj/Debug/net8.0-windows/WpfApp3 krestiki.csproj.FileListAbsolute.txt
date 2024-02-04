@@ -1,0 +1,20 @@
+D:\WpfApp3 krestiki\WpfApp3 krestiki\bin\Debug\net8.0-windows\WpfApp3 krestiki.exe
+D:\WpfApp3 krestiki\WpfApp3 krestiki\bin\Debug\net8.0-windows\WpfApp3 krestiki.deps.json
+D:\WpfApp3 krestiki\WpfApp3 krestiki\bin\Debug\net8.0-windows\WpfApp3 krestiki.runtimeconfig.json
+D:\WpfApp3 krestiki\WpfApp3 krestiki\bin\Debug\net8.0-windows\WpfApp3 krestiki.dll
+D:\WpfApp3 krestiki\WpfApp3 krestiki\bin\Debug\net8.0-windows\WpfApp3 krestiki.pdb
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\App.g.cs
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki_MarkupCompile.cache
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki_MarkupCompile.lref
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\MainWindow.baml
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.g.resources
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.AssemblyInfoInputs.cache
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.AssemblyInfo.cs
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.csproj.CoreCompileInputs.cache
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.dll
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\refint\WpfApp3 krestiki.dll
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.pdb
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\WpfApp3 krestiki.genruntimeconfig.cache
+D:\WpfApp3 krestiki\WpfApp3 krestiki\obj\Debug\net8.0-windows\ref\WpfApp3 krestiki.dll
